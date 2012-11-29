@@ -6,3 +6,6 @@ C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\bin\Debug\db.exe
 C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\bin\Debug\db.pdb
 C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\obj\Debug\db.exe
 C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\obj\Debug\db.pdb
+C:\Users\Filip\Documents\GitHub\netprog\db\db\bin\Debug\db.exe.config
+C:\Users\Filip\Documents\GitHub\netprog\db\db\obj\Debug\db.exe
+C:\Users\Filip\Documents\GitHub\netprog\db\db\obj\Debug\db.pdb

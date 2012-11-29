@@ -14,12 +14,12 @@ public String lastName {get;set;}
 public String firstName { get; set; }
 public String email { get; set; }
 public Student(String[] parsedStudent) {
-this.socialNumber = parsedStudent[0];
-this.beganYear = parsedStudent[1];
-this.userID = parsedStudent[2];
-this.lastName = parsedStudent[3];
-this.firstName = parsedStudent[4];
-this.email = parsedStudent[5];
+    this.socialNumber = parsedStudent[0];
+    this.beganYear = parsedStudent[1];
+    this.userID = parsedStudent[2];
+    this.lastName = parsedStudent[3];
+    this.firstName = parsedStudent[4];
+    this.email = parsedStudent[5];
 }
 }
 }
