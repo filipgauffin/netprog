@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\db\db\bin\Debug\db.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\obj\Debug\db.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\obj\Debug\db.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\obj\Debug\db.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\bin\Debug\db.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\bin\Debug\db.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\obj\Debug\db.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\db\db\obj\Debug\db.pdb
